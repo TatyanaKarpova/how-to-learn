@@ -61,6 +61,7 @@
 
 .header__link {
   color: #2f80ed;
+  text-decoration: none;
 }
 
 .header__main-illustration {
@@ -239,6 +240,7 @@
   font-weight: normal;
   color:#2f80ed;
   z-index: 1;
+  text-decoration: none;
 }
 
 .feynman__main-illustration {
@@ -384,13 +386,13 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
-  margin-top: 20px;
-  list-style-type: none;
   margin: 0;
+  list-style-type: none;
+  margin-top: 20px;
   padding: 0;
 }
 
-.footer__link {
+.footer__column-link {
   color: #f2f2f2;
   text-decoration: none;
 }
