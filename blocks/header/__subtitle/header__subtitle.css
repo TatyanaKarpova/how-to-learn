@@ -2,7 +2,8 @@
   margin-top: 0;
   margin-bottom: 0;
   position: absolute;
-  width: 388px;
+  max-width: 388px;
+  width: 100%;
   left: 64px;
   bottom: 30px;
   line-height: 25px;
